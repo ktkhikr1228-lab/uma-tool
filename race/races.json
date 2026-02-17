@@ -1,0 +1,12 @@
+{
+  "races": [
+    {
+      "id": "202602_LOH",
+      "label": "2026年2月 LOH",
+      "course": "東京芝1600m（マイル）",
+      "direction": "左",
+      "weather": "冬晴れ",
+      "skills_file": "skills.json"
+    }
+  ]
+}
